@@ -18,6 +18,4 @@ My ethical responsibilities to the end user and the organization include buildin
 
 For an organization, ethical responsibility also means not overstating what an AI system can do. A model that performs well in a controlled environment may not perform the same way in a real-world environment with changing conditions. For the end user, the system should behave predictably, protect user data when applicable, and include human oversight when decisions have real consequences. This project reinforced that responsible AI development requires both technical skill and careful judgment.
 
-## AI Use Acknowledgment
 
-I used ChatGPT to help organize and revise the written reflection for this README. The project code and learning concepts are based on my CS 370 coursework and Project Two work.
